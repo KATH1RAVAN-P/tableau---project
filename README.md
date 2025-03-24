@@ -1,8 +1,7 @@
 # British Airways Review Analysis 📊✈️
 
-![British Airways](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/British_Airways_Logo.svg/2560px-British_Airways_Logo.svg.png)
+![British Airways](https://github.com/KATH1RAVAN-P/tableau---project/blob/9815b0b903cbdb9c8f95fa9caaccbed786559192/British%20Airways.png)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/British_Airways_Boeing_787-8_G-ZBJF_%2827079049212%29.jpg" width="700" height="450" alt="British Airways Aircraft">
 
 ## Overview 🛫
 This project analyzes British Airways customer reviews using Tableau. The dashboard provides insights into passenger sentiment, geographical trends, aircraft-specific issues, and seasonal variations in service ratings.
